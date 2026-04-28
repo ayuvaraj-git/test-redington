@@ -1,3 +1,3 @@
 <?php
-echo "<h1>sample php app</h1>"
+echo "<h1>test sample php app</h1>"
 ?>
